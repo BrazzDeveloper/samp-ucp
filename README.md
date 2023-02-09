@@ -25,9 +25,9 @@
 > Pesquisa de Fazendas
 ![Imagem Pesquisa de Fazendas](https://github.com/BrazzDeveloper/samp-ucp/blob/main/images/Screenshot_60.png)
 
-> Barra Lateral (PC/Aberta)
+## Barra Lateral (PC/Aberta)
 ![Imagem Barra Lateral](https://github.com/BrazzDeveloper/samp-ucp/blob/main/images/Screenshot_61.png)
-> Barra Lateral (Mobile/Fechada)
+## Barra Lateral (Mobile/Fechada)
 ![Imagem Barra Lateral](https://github.com/BrazzDeveloper/samp-ucp/blob/main/images/Screenshot_62.png)
 
 ## Interessado?
