@@ -10,9 +10,9 @@
 
 ## Imagens do Website:
 > Tela de Login
-![Imagem Tela de Login](imagens/Screenshot_53.png)
+![Imagem Tela de Login](https://github.com/BrazzDeveloper/samp-ucp/blob/main/images/Screenshot_53.png)
 > Dashboard/Index
-![Imagem Dashboard](imagens/Screenshot_54.png)
+![Imagem Dashboard](https://github.com/BrazzDeveloper/samp-ucp/blob/main/images/Screenshot_54.png)
 > Perfil
 ![Imagem Perfil](imagens/Screenshot_55.png)
 ![Imagem Perfil 2](imagens/Screenshot_56.png)
